@@ -1,16 +1,31 @@
-## Hi there 👋
+# David Kangas
 
-<!--
-**david-kangas/david-kangas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product and operations professional focused on building systems that scale responsibly.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ANVAIR
+
+Minimal Apple Watch timer designed to keep strength athletes on schedule between sets.
+
+Case Study  
+https://david-kangas.github.io/anvair
+
+Repository  
+https://github.com/david-kangas/anvair
+
+---
+
+## Areas of Interest
+
+• Product design  
+• AI governance and operational systems  
+• Human centered automation  
+• Durable system design
+
+---
+
+## Contact
+
+LinkedIn  
+https://linkedin.com/in/linkedin.com/in/david-kangas-dkc1
