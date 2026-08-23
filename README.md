@@ -100,6 +100,9 @@ Recent work includes:
 - Google Sheets dashboards and reporting
 
 I tend to use AppSheet when the goal is to get a durable operational system working quickly without overengineering the stack.
+
+
+
 Contact
 
 LinkedIn
