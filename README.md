@@ -85,6 +85,21 @@ Areas of Interest
 * Human-centered operational systems
 * Small, durable software products
 
+## Operational Systems
+
+I also build internal business tools and field workflows with AppSheet and Google Workspace.
+
+Recent work includes:
+
+- Property visit and inspection workflows
+- Photo-driven PDF reporting
+- Contractor and service coordination tracking
+- Expense and mileage capture
+- Open-action workflows and status automation
+- Calendar-linked field operations
+- Google Sheets dashboards and reporting
+
+I tend to use AppSheet when the goal is to get a durable operational system working quickly without overengineering the stack.
 Contact
 
 LinkedIn
