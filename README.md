@@ -30,6 +30,7 @@ Follup centers the workflow around the person or relationship rather than a trad
 Built with: TypeScript · JavaScript
 
 Repository
+https://github.com/david-kangas/follup-app
 
 ⸻
 
@@ -40,6 +41,12 @@ An experimental composer for designing and auditioning watchOS haptic sequences 
 The interface treats haptics more like a timeline or mixing board, making it easier to explore timing, rhythm, sequencing, and the limited haptic vocabulary available on Apple Watch.
 
 Built with: SwiftUI · watchOS · iOS
+
+Repository
+https://github.com/david-kangas/HapticLab<img width="468" height="48" alt="image" src="https://github.com/user-attachments/assets/a0f3ed0a-e740-464d-afc5-fb26c3dd0520" />
+
+
+
 
 ⸻
 
@@ -52,6 +59,8 @@ The joke is light; the product thinking underneath it is not. Rinse Club is bein
 Built with: React Native · Expo
 
 Repository
+https://github.com/david-kangas/rinse-club<img width="468" height="48" alt="image" src="https://github.com/user-attachments/assets/4afb7e04-eba9-4d6e-8bc3-9060fcfb8bb5" />
+
 
 How I Build
 
